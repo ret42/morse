@@ -1,4 +1,3 @@
 # morse
-A tool for encode text in morse with space and tabspace (txtfile)<br>
-It's the international morse<br>
-Thanks to express for helped me with the dictionnary
+- A tool for encode/decode text in morse (Space/TabSpace, Audio, Text, Image)
+    - Using this article [Electronic Arts](https://www.electronics-notes.com/articles/ham_radio/morse_code/characters-table-chart.php)
